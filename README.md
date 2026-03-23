@@ -19,3 +19,9 @@ The goal is to document my learning progress and help others by sharing these wr
 * Easy
 * Medium
 * Hard
+
+---
+
+## Disclaimer
+
+Some writeups may be partial if the machine is still active. Full details are published after retirement.
