@@ -6,7 +6,7 @@
 | ---------- | ------- |
 | Difficulty | Easy    |
 | OS         | Linux   |
-| Status     | Retired |
+| Status     | Active  |
 
 Facter is an easy machine featuring a vulnerable CMS (content Management System). The identified vulnerability allows initial access to the target system. Improper privileges assigned to a user enable privilege escalation, leading to retrive of the root flag using an installed tool.
 
