@@ -23,7 +23,7 @@ Result:
 |_http-server-header: nginx/1.26.3 (Ubuntu)
 |_http-title: Did not follow redirect to http://facts.htb/
 54321/tcp open  http    Golang net/http server
-|_http-title: Did not follow redirect to http://10.129.244.96:9001
+|_http-title: Did not follow redirect to http://<Target-IP>:9001
 ```
 Analysis:
 - SSH and two HTTP services identified (80, 54321)
